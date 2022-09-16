@@ -1,6 +1,6 @@
 # Line follower workshop HCET sept22
-<img src="..\pcb1.png"  width=200/></br> 
-<img src="..\robot.jpg" width=150/>
+<img src="pcb1.png"  width=200/></br> 
+<img src="robot.jpg" width=150/>
 
 
 
